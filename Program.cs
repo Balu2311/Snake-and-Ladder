@@ -19,12 +19,13 @@ namespace Snake
         static void Main(string[] args)
         {
             Console.WriteLine("***Welcome To Snake and Ladder Gmae***");
-            int playerPosition = 0;
+            int playerPosition = 0, countRound = 0;
             while (playerPosition != 100)
             {
                 int playerDice = rollDice();
                 int option = checkOption();
                 int winPosition = 100;
+                countRound++;
                 switch (option)
                 {
                     case 1:
@@ -50,6 +51,13 @@ namespace Snake
                         Console.WriteLine("Player not playing.");
                         break;
                 }
+                Console.WriteLine($"Roll_Dice_Count:{ countRound } :PlayerPosition: {playerPosition}");
+                if (playerPosition == winPosition)
+                {
+                        Console.WriteLine("----------Player_Won----------");
+                        Console.WriteLine("Number of times dice was played : {0}", countRound);
+                }
+                    
             }
         }
     }
