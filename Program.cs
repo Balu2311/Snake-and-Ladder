@@ -18,21 +18,33 @@ namespace Snake
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("***Welcome To Snake and Ladder Game***");
+            Console.WriteLine("***Welcome To Snake and Ladder Gmae***");
             int playerPosition = 0;
             while (playerPosition != 100)
             {
                 int playerDice = rollDice();
                 int option = checkOption();
+                int winPosition = 100;
                 switch (option)
                 {
                     case 1:
                         Console.WriteLine("Player Got Ladder.");
                         playerPosition += playerDice;
+                        if (playerPosition > winPosition)
+                        {
+                            playerPosition -= playerDice;
+                        }
                         break;
                     case 2:
                         Console.WriteLine("Player got Snake.");
-                        playerPosition -= playerDice;
+                        if ((playerPosition - playerDice) < 0)
+                        {
+                            playerPosition = 0;
+                        }
+                        else
+                        {
+                            playerPosition -= playerDice;
+                        }
                         break;
                     default:
                         Console.WriteLine("Player not playing.");
