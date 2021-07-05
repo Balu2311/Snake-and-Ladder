@@ -1,0 +1,13 @@
+G:\Bridgelab\EmpWage\Snake_Two_players\bin\Debug\netcoreapp3.1\Snake_Two_players.exe
+G:\Bridgelab\EmpWage\Snake_Two_players\bin\Debug\netcoreapp3.1\Snake_Two_players.deps.json
+G:\Bridgelab\EmpWage\Snake_Two_players\bin\Debug\netcoreapp3.1\Snake_Two_players.runtimeconfig.json
+G:\Bridgelab\EmpWage\Snake_Two_players\bin\Debug\netcoreapp3.1\Snake_Two_players.runtimeconfig.dev.json
+G:\Bridgelab\EmpWage\Snake_Two_players\bin\Debug\netcoreapp3.1\Snake_Two_players.dll
+G:\Bridgelab\EmpWage\Snake_Two_players\bin\Debug\netcoreapp3.1\Snake_Two_players.pdb
+G:\Bridgelab\EmpWage\Snake_Two_players\obj\Debug\netcoreapp3.1\Snake_Two_players.AssemblyInfoInputs.cache
+G:\Bridgelab\EmpWage\Snake_Two_players\obj\Debug\netcoreapp3.1\Snake_Two_players.AssemblyInfo.cs
+G:\Bridgelab\EmpWage\Snake_Two_players\obj\Debug\netcoreapp3.1\Snake_Two_players.csproj.CoreCompileInputs.cache
+G:\Bridgelab\EmpWage\Snake_Two_players\obj\Debug\netcoreapp3.1\Snake_Two_players.dll
+G:\Bridgelab\EmpWage\Snake_Two_players\obj\Debug\netcoreapp3.1\Snake_Two_players.pdb
+G:\Bridgelab\EmpWage\Snake_Two_players\obj\Debug\netcoreapp3.1\Snake_Two_players.genruntimeconfig.cache
+G:\Bridgelab\EmpWage\Snake_Two_players\obj\Debug\netcoreapp3.1\Snake_Two_players.csproj.AssemblyReference.cache
