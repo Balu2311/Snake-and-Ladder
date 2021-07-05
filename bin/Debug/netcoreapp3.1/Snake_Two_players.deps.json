@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Snake_Two_players/1.0.0": {
+        "runtime": {
+          "Snake_Two_players.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snake_Two_players/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
