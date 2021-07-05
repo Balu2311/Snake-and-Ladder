@@ -1,0 +1,13 @@
+G:\Bridgelab\EmpWage\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+G:\Bridgelab\EmpWage\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+G:\Bridgelab\EmpWage\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+G:\Bridgelab\EmpWage\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+G:\Bridgelab\EmpWage\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+G:\Bridgelab\EmpWage\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+G:\Bridgelab\EmpWage\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.AssemblyReference.cache
+G:\Bridgelab\EmpWage\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+G:\Bridgelab\EmpWage\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+G:\Bridgelab\EmpWage\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+G:\Bridgelab\EmpWage\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+G:\Bridgelab\EmpWage\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+G:\Bridgelab\EmpWage\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
