@@ -8,8 +8,14 @@ namespace Snake
         {
             Console.WriteLine("***Welcome To Snake and Ladder Gmae***");
             int playerPosition = 0;
-            Console.WriteLine("Player Position: " + playerPosition);
+            int playerDice = rollDice();
+            Console.WriteLine("Roll Dice: "  + playerDice);
         }
-
+        public static int rollDice()
+        {
+            Random random = new Random();
+            int dice = random.Next(1, 7);
+            return dice;
+        }
     }
 }
