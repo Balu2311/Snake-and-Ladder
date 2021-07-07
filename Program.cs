@@ -6,7 +6,7 @@ namespace Snake
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***Welcome To Snake and Ladder Gmae***");
+            Console.WriteLine("***Welcome To Snake and Ladder Game***");
             int playerPosition = 0;
             int playerDice = rollDice();
             Console.WriteLine("Roll Dice: "  + playerDice);
